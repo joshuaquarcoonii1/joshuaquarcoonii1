@@ -1,9 +1,7 @@
-[!MasterHead](https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif)
-<img width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfdeSUDzBi_z30GmFOFkhsxLMgpuZ3rAcOFHFQCJXmZBhIe3eo37jWoD2Uw2SPW43gy34">
+<img width="259" height="195" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfdeSUDzBi_z30GmFOFkhsxLMgpuZ3rAcOFHFQCJXmZBhIe3eo37jWoD2Uw2SPW43gy34">
 <h1 align="center">Hi 👋, I'm Joshua Quarcoo</h1>
 <h3 align="center">A passionate computer engineer from Ghana</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joshuaquarcoonii1" alt="joshuaquarcoonii1" /></a> </p>
 
 - 👨‍💻 Here's the link to my portfolio site [joshhhhhh.netlifyapp](joshhhhhh.netlifyapp)
 
