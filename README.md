@@ -1,4 +1,4 @@
-<img width="259" height="195" src="https://assets.bitdegree.org/online-learning-platforms/storage/media/2018/08/how-to-become-a-programmer.jpg">
+<img text-align="centre" width="259" height="195" src="https://assets.bitdegree.org/online-learning-platforms/storage/media/2018/08/how-to-become-a-programmer.jpg">
 <h1 align="center">Hi 👋, I'm Joshua Quarcoo</h1>
 <h3 align="center">A passionate computer engineer from Ghana</h3>
 
