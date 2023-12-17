@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joshuaquarcoonii1" alt="joshuaquarcoonii1" /></a> </p>
 
-- 👨‍💻 Here's the link to my portfolio site [[joshhhhhh.netlifyapp](joshhhhhh.netlifyapp)](https://joshhhhhhh.netlify.app/
+- 👨‍💻 Here's the link to my portfolio site (https://joshhhhhhh.netlify.app/)
 )
 - 📫 How to reach me **joshuaquarcoonii1@gmail.com**
 
